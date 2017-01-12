@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+  background-color: #ff3423;
+}
+header {
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+}
